@@ -1,3 +1,0 @@
-you will develop a machine learning model to predict the nationality of a person by uploading their image and predict their emotion. If the person’s nationality is Indian, the model should additionally predict their age and dress colour along with emotions. For individuals from the United States, the model should predict only their age and emotions. For African individuals, the model should predict their emotion and dress colour. For other nationalities, the model should predict only their nationality and emotions. Guidelines: You should have a proper GUI with preview of the input images. Also have an output section to show the results.
-﻿# Nationality-Detection-Model
-
